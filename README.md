@@ -252,13 +252,12 @@ Hey! 👋 I'm Nikhil, an indie Android developer building this project in my fre
 
 Every contribution goes directly toward new features, bug fixes, performance improvements and long-term development.
 
-<div align="center">
-
-[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_Development-5FF5D3?style=for-the-badge&labelColor=0B1D4F)](https://narzo7.gumroad.com/l/nhlevz)
+<p align="center">
+  <a href="https://buy.polar.sh/polar_cl_9FTHFMbmf680aHGH7j3rq6Ii7XsgDFOgLD0Ah3osilE"><img src="docs/buy-me-a-coffee.svg" alt="Buy me a coffee" width="300"></a>
 
 *Thank you for supporting independent open-source development ❤️*
 
-</div>
+</p>
 
 ## 📄 License
 
